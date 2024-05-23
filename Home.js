@@ -32,8 +32,8 @@ const styles = StyleSheet.create({
         marginBottom: 10,
     },
     imagemRedonda: {
-        width: 200, // Ajuste conforme necessário
-        height: 200, // Ajuste conforme necessário
+        width: 200, // Ajustar conforme necessário
+        height: 200, // Ajustar conforme necessário
         overflow: 'hidden',
         borderRadius: 100, // 50% da largura ou altura
         marginBottom:100
